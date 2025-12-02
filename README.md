@@ -1,6 +1,6 @@
 # NorthPeak - Portfoilio Tracker
 
-NorthPeak is a mobile-first investing companion that lets users track portfolios, set long-term financial goals, and view automatically refreshed market insights. The app also includes a built-in AI chat assistant to answer questions about investments, explain metrics, and help users understand their progress over time.
+NorthPeak is a mobile investing companion that lets users track portfolios, set long-term financial goals, and view automatically refreshed market insights. The app also includes a built-in AI chat assistant to answer questions about investments, help set long-term goals, and quickly get up-to-date with the day's news.
 
 High-level architecture:
 
